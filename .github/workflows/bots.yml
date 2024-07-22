@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.actor == 'renovate[bot]'
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: hmarr/auto-approve-action@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
