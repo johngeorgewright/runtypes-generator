@@ -2841,7 +2841,7 @@ const RAW_RUNTIME_STATE =
           ["rimraf", "npm:5.0.5"],\
           ["semantic-release", "npm:20.1.3"],\
           ["semantic-release-monorepo", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:7.0.5"],\
-          ["title-case", "npm:3.0.3"],\
+          ["title-case", "npm:4.3.2"],\
           ["ts-jest", "virtual:9af6ad551183488fdcf67ab4d2a6b7db121574c52b81e5e9dd82d71c2425158bec35fb2f6cfd71372398534f37f2c1a824c5b4b40797053c0402f99390a749ec#npm:29.1.1"],\
           ["ts-morph", "npm:20.0.0"],\
           ["ts-node", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:10.9.1"],\
@@ -3036,7 +3036,7 @@ const RAW_RUNTIME_STATE =
           ["rimraf", "npm:5.0.5"],\
           ["semantic-release", "npm:20.1.3"],\
           ["semantic-release-monorepo", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:7.0.5"],\
-          ["title-case", "npm:3.0.3"],\
+          ["title-case", "npm:4.3.2"],\
           ["ts-jest", "virtual:9af6ad551183488fdcf67ab4d2a6b7db121574c52b81e5e9dd82d71c2425158bec35fb2f6cfd71372398534f37f2c1a824c5b4b40797053c0402f99390a749ec#npm:29.1.1"],\
           ["ts-morph", "npm:20.0.0"],\
           ["ts-node", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:10.9.1"],\
@@ -15838,11 +15838,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["title-case", [\
-      ["npm:3.0.3", {\
-        "packageLocation": "./.yarn/cache/title-case-npm-3.0.3-101a1194a3-369fe90f65.zip/node_modules/title-case/",\
+      ["npm:4.3.2", {\
+        "packageLocation": "./.yarn/cache/title-case-npm-4.3.2-256059d3bc-1c6c212e05.zip/node_modules/title-case/",\
         "packageDependencies": [\
-          ["title-case", "npm:3.0.3"],\
-          ["tslib", "npm:2.6.2"]\
+          ["title-case", "npm:4.3.2"]\
         ],\
         "linkType": "HARD"\
       }]\
