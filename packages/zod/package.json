@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@runtyping/generator": "workspace:*",
-    "title-case": "3.0.3",
+    "title-case": "4.3.2",
     "ts-morph": "20.0.0",
     "tslib": "2.6.2"
   }

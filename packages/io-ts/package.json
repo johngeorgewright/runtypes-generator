@@ -45,7 +45,7 @@
     "@johngw/array": "3.3.2",
     "@runtyping/generator": "workspace:*",
     "@ts-morph/common": "0.21.0",
-    "title-case": "3.0.3",
+    "title-case": "4.3.2",
     "ts-morph": "20.0.0",
     "tslib": "2.6.2"
   }
