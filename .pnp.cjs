@@ -75,7 +75,7 @@ const RAW_RUNTIME_STATE =
           ["isbinaryfile", "npm:5.0.0"],\
           ["jest", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:29.7.0"],\
           ["lint-staged", "npm:15.1.0"],\
-          ["prettier", "npm:2.8.8"],\
+          ["prettier", "npm:3.4.2"],\
           ["rimraf", "npm:5.0.5"],\
           ["runtypes", "npm:6.7.0"],\
           ["semantic-release", "npm:20.1.3"],\
@@ -2753,14 +2753,14 @@ const RAW_RUNTIME_STATE =
           ["@types/js-yaml", "npm:4.0.9"],\
           ["@types/lodash", "npm:4.14.202"],\
           ["@types/node", "npm:20.10.2"],\
-          ["@types/prettier", "npm:2.7.3"],\
+          ["@types/prettier", "npm:3.0.0"],\
           ["@types/typescript", null],\
           ["@types/yargs", "npm:17.0.32"],\
           ["jest", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:29.7.0"],\
           ["js-yaml", "npm:4.1.0"],\
           ["json-schema-to-typescript", "npm:13.1.1"],\
           ["lodash", "npm:4.17.21"],\
-          ["prettier", "npm:2.8.8"],\
+          ["prettier", "npm:3.4.2"],\
           ["rimraf", "npm:5.0.5"],\
           ["semantic-release", "npm:20.1.3"],\
           ["semantic-release-monorepo", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:7.0.5"],\
@@ -2796,13 +2796,13 @@ const RAW_RUNTIME_STATE =
           ["@types/js-yaml", "npm:4.0.9"],\
           ["@types/lodash", "npm:4.14.202"],\
           ["@types/node", "npm:20.10.2"],\
-          ["@types/prettier", "npm:2.7.3"],\
+          ["@types/prettier", "npm:3.0.0"],\
           ["@types/yargs", "npm:17.0.32"],\
           ["jest", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:29.7.0"],\
           ["js-yaml", "npm:4.1.0"],\
           ["json-schema-to-typescript", "npm:13.1.1"],\
           ["lodash", "npm:4.17.21"],\
-          ["prettier", "npm:2.8.8"],\
+          ["prettier", "npm:3.4.2"],\
           ["rimraf", "npm:5.0.5"],\
           ["semantic-release", "npm:20.1.3"],\
           ["semantic-release-monorepo", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:7.0.5"],\
@@ -2875,7 +2875,7 @@ const RAW_RUNTIME_STATE =
           ["isbinaryfile", "npm:5.0.0"],\
           ["jest", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:29.7.0"],\
           ["lint-staged", "npm:15.1.0"],\
-          ["prettier", "npm:2.8.8"],\
+          ["prettier", "npm:3.4.2"],\
           ["rimraf", "npm:5.0.5"],\
           ["runtypes", "npm:6.7.0"],\
           ["semantic-release", "npm:20.1.3"],\
@@ -2930,12 +2930,12 @@ const RAW_RUNTIME_STATE =
           ["@semantic-release/release-notes-generator", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:10.0.3"],\
           ["@types/jest", "npm:29.5.10"],\
           ["@types/node", "npm:20.10.2"],\
-          ["@types/prettier", "npm:2.7.3"],\
+          ["@types/prettier", "npm:3.0.0"],\
           ["@types/rimraf", "npm:4.0.5"],\
           ["@types/yeoman-generator", "npm:5.2.14"],\
           ["change-case", "npm:4.1.2"],\
           ["jest", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:29.7.0"],\
-          ["prettier", "npm:2.8.8"],\
+          ["prettier", "npm:3.4.2"],\
           ["rimraf", "npm:5.0.5"],\
           ["semantic-release", "npm:20.1.3"],\
           ["semantic-release-monorepo", "virtual:571a053ee915ce800ce21576c7e58528b114653726c343e146e32b8462437bf9e467d47f17bd4a02cabbaf6987d09656d8f95cf9b5ea080fa6dbbf41f3d0426b#npm:7.0.5"],\
@@ -3908,10 +3908,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.7.3", {\
-        "packageLocation": "./.yarn/cache/@types-prettier-npm-2.7.3-497316f37c-cda84c19ac.zip/node_modules/@types/prettier/",\
+      ["npm:3.0.0", {\
+        "packageLocation": "./.yarn/cache/@types-prettier-npm-3.0.0-6c770110eb-a2a512d304.zip/node_modules/@types/prettier/",\
         "packageDependencies": [\
-          ["@types/prettier", "npm:2.7.3"]\
+          ["@types/prettier", "npm:3.0.0"],\
+          ["prettier", "npm:3.4.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -13646,10 +13647,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.8.8", {\
-        "packageLocation": "./.yarn/cache/prettier-npm-2.8.8-430828a36c-00cdb6ab02.zip/node_modules/prettier/",\
+      ["npm:3.4.2", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.4.2-fae349e44a/node_modules/prettier/",\
         "packageDependencies": [\
-          ["prettier", "npm:2.8.8"]\
+          ["prettier", "npm:3.4.2"]\
         ],\
         "linkType": "HARD"\
       }]\
