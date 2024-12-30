@@ -2138,7 +2138,7 @@ __metadata:
     "@semantic-release/github": "npm:8.1.0"
     "@semantic-release/npm": "npm:9.0.2"
     "@semantic-release/release-notes-generator": "npm:10.0.3"
-    "@ts-morph/common": "npm:0.21.0"
+    "@ts-morph/common": "npm:0.26.0"
     "@types/jest": "npm:29.5.10"
     "@types/js-yaml": "npm:4.0.9"
     "@types/lodash": "npm:4.14.202"
@@ -2178,7 +2178,7 @@ __metadata:
     "@semantic-release/github": "npm:8.1.0"
     "@semantic-release/npm": "npm:9.0.2"
     "@semantic-release/release-notes-generator": "npm:10.0.3"
-    "@ts-morph/common": "npm:0.21.0"
+    "@ts-morph/common": "npm:0.26.0"
     "@types/jest": "npm:29.5.10"
     "@types/json-schema": "npm:7.0.15"
     "@types/node": "npm:20.10.2"
@@ -2666,7 +2666,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ts-morph/common@npm:0.21.0, @ts-morph/common@npm:~0.21.0":
+"@ts-morph/common@npm:0.26.0":
+  version: 0.26.0
+  resolution: "@ts-morph/common@npm:0.26.0"
+  dependencies:
+    fast-glob: "npm:^3.3.2"
+    minimatch: "npm:^9.0.4"
+    path-browserify: "npm:^1.0.1"
+  checksum: 838458989ca048f3932d9bd01899262a6e4a4c19a593fdd625384b50fc39e810c90e985795fa319e59303259a58e240ac26f245a5885c53ffe1da17a3f05408f
+  languageName: node
+  linkType: hard
+
+"@ts-morph/common@npm:~0.21.0":
   version: 0.21.0
   resolution: "@ts-morph/common@npm:0.21.0"
   dependencies:
@@ -6125,7 +6136,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-glob@npm:^3.2.12":
+"fast-glob@npm:^3.2.12, fast-glob@npm:^3.3.2":
   version: 3.3.2
   resolution: "fast-glob@npm:3.3.2"
   dependencies:
@@ -10058,6 +10069,15 @@ __metadata:
   dependencies:
     brace-expansion: "npm:^2.0.1"
   checksum: b4e98f4dc740dcf33999a99af23ae6e5e1c47632f296dc95cb649a282150f92378d41434bf64af4ea2e5975255a757d031c3bf014bad9214544ac57d97f3ba63
+  languageName: node
+  linkType: hard
+
+"minimatch@npm:^9.0.4":
+  version: 9.0.5
+  resolution: "minimatch@npm:9.0.5"
+  dependencies:
+    brace-expansion: "npm:^2.0.1"
+  checksum: dd6a8927b063aca6d910b119e1f2df6d2ce7d36eab91de83167dd136bb85e1ebff97b0d3de1cb08bd1f7e018ca170b4962479fefab5b2a69e2ae12cb2edc8348
   languageName: node
   linkType: hard
 
