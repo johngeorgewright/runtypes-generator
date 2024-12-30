@@ -44,7 +44,7 @@
   "dependencies": {
     "@johngw/array": "3.3.2",
     "@runtyping/generator": "workspace:*",
-    "@ts-morph/common": "0.21.0",
+    "@ts-morph/common": "0.26.0",
     "title-case": "3.0.3",
     "ts-morph": "20.0.0",
     "tslib": "2.6.2"
